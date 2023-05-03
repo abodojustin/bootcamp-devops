@@ -1,1 +1,1 @@
-docker/vagrant-docker/.vagrant
+docker/vagrant-docker/.vagrant/* # ignore everything in the directory
